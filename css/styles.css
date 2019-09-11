@@ -1,0 +1,16 @@
+.bodyParts{
+    border-color: black;
+    fill: #72B8FC;cursor: pointer;
+}
+area.bodyParts
+{
+    fill: black;
+    stroke:gray; /* Replace with none if you like*/
+    stroke-width: 4;
+    cursor: pointer;
+}
+
+area.bodyParts:hover
+{
+ stroke:black;
+}
