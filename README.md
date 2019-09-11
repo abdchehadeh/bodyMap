@@ -11,7 +11,7 @@ There is no need to any other software, yet you need to select your picture from
 
 ### Running
 
-No further installation required to run teh files in this repo. Just clone or download, and run index.html in any browser.
+No further installation required to run the files in this repo. Just clone or download, and run index.html in any browser.
 
 
 ## Custom version tutorial
