@@ -5,7 +5,7 @@ The point of this project is the lack of information I encountered to create som
 
 ## Getting Started & Prerequisites
 
-There is not need to any other software, yet you need to select your picture from the web or use one of your own and access to https://www.image-map.net/ 
+There is no need to any other software, yet you need to select your picture from the web or use one of your own and access to https://www.image-map.net/ 
 
 
 
@@ -24,7 +24,7 @@ https://www.image-map.net/
 * Upload you picture 
 * Select your shape and decide your coordinate on the picture.
 * Once you are done with the areas, click "Show me the code"
-*MAKE SURE TO GIVE EVERY AREA an ID
+* MAKE SURE TO GIVE EVERY AREA an ID
 
 ```
 * Use http://www.outsharked.com/imagemapster/default.aspx?docs.html to read about your intialisation and data binding of map and picture.
